@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CityTVLawndale.us" group-title="TEST" status="online",Lawndale City TV (720p)
 http://67.53.122.248/live-4/live/live.m3u8
-#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-logo="https://i.imgur.com/vlKPZHR.png" group-title="Sports",Fight Network (1080p)
+#EXTINF:-1 tvg-id="FightNetwork.ca" group-title="Sports",Fight Network (1080p)
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
